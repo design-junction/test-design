@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/design-junction.github.io/test-design/static/css/main.073c9b0a.css",
+    "main.js": "/design-junction.github.io/test-design/static/js/main.0484b6c3.js",
+    "static/js/787.f7ceebc4.chunk.js": "/design-junction.github.io/test-design/static/js/787.f7ceebc4.chunk.js",
+    "static/media/logo.svg": "/design-junction.github.io/test-design/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/design-junction.github.io/test-design/index.html",
+    "main.073c9b0a.css.map": "/design-junction.github.io/test-design/static/css/main.073c9b0a.css.map",
+    "main.0484b6c3.js.map": "/design-junction.github.io/test-design/static/js/main.0484b6c3.js.map",
+    "787.f7ceebc4.chunk.js.map": "/design-junction.github.io/test-design/static/js/787.f7ceebc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0484b6c3.js"
+  ]
+}
